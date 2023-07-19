@@ -1,0 +1,12 @@
+
+.nav{
+    min-width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+.nav a{
+    text-decoration: none;
+}
